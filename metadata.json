@@ -1,0 +1,5 @@
+{
+  "name": "MTG EDH Strategist & Simulator",
+  "description": "Analyze Commander deck lists, discover combos, and simulate goldfish playtests against various archetypes using AI-powered insights.",
+  "requestFramePermissions": []
+}
